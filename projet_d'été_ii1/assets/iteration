@@ -1,0 +1,9 @@
+digraph pathway {
+	rankdir=LR size="8,5"
+	node [shape=circle]
+	q0 -> q1 [label="a
+step1"]
+	node [shape=circle]
+	q1 -> q1 [label="a
+step2"]
+}
