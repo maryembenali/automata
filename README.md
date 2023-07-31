@@ -1,5 +1,5 @@
 **Automata**
-<p align="center"><img src="menu.png" ></p>
+<p align="center"><img src="logo.PNG" ></p>
 
 
 **Description:**
