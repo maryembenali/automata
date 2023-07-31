@@ -21,6 +21,14 @@ Automata is an end-of-year project developed during the 2021/2022 academic year 
 2. Install the required dependencies and set up the development environment.
 
 3. Launch the Automata app and start building your finite automata.
+   
+**Environment Dependencies**
+
+- Python 
+- `tkinter` 
+- `automata` 
+- `graphviz` 
+- `Pillow` 
 
 **Contributing:**
 
